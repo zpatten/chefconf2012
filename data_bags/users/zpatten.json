@@ -1,0 +1,12 @@
+{
+  "id": "zpatten",
+  "groups": ["sysadmin"],
+  "uid": 1337,
+  "shell": "/bin/bash",
+  "comment": "Zachary Patten",
+  "nagios": {
+    "email": "zpatten@example.com"
+  },
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDpxeJvoedcsPiyTSJUwu7xUXwe4kO3QLeVIuX/19El0haX5g1yW3A601KMqEM8ydAOe3Vy9cP0DpHD7RN3oD8OsfcaZ2l3J4gZB90NuLtNK8jmfRWJg5IPlq0VM7CycoMLLI0q5kxm4UaoIFP18AikNvMAGi/rhE+zg4XQoE80xYTvtToIDaZAb25qelCC0x0jMfYxt8tkGTgGn0eXx9pIDboB+u35ew38hIKZGAtlEgb58RFaq0+yz+75X0NoRTDOcRTYzrrZ0McRYIT+1BYExiHKCPGcc4sGrtr8RU900+/m+Xmf9HPs0/LhEEP827aK9DNX3Hi0rV6EOOE593Dd zpatten@Zacharys-MacBook-Pro.local",
+  "htpasswd": "{SHA}+pvrmeQCmtWmYVOZ57uuITVghrM="
+}
